@@ -1,0 +1,10 @@
+* cl-prime-maker
+
+A simple package to generate big prime numbers.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/nakrakiiya/cl-prime-maker.git   |
+| commit  | af65267  |
+| systems | cl-prime-maker |
+|---------+-------------------------------------------|
+
